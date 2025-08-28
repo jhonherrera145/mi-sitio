@@ -1,0 +1,26 @@
+css #first {
+    background-color: red;
+    width: auto;
+    fant-family: arial;
+}
+
+#second {
+    background-color: #19a530;
+    width: 200px;
+    font-family: 'Times New Roman';
+}
+
+#third {
+    background-color: rgb(105, 89, 253);
+    width: 50% font-family: courier;
+}
+
+div {
+    margin: 10px;
+    padding: 5px;
+}
+
+#{color:blue;
+ font-family: avenir;
+
+}
